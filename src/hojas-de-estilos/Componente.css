@@ -1,0 +1,57 @@
+.cuerpo{
+  width: 800px;
+  height: 368px;
+  margin: 10px 10px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 /9%);
+
+}
+
+.Imagen{
+  height: 60%;
+  width: auto;
+}
+
+.texto{
+  width: 100%;
+  font-size: 18px;
+  text-align: center;
+  padding: 40px;
+  font-family: lato, sans-serif;
+  font-weight: 400;
+  line-height: 1.5rem;
+
+}
+
+.titulo{
+  font-size: 1.3rem;
+}
+
+.tipo-imagen{
+  font-size: 1.1rem;
+  margin-top: 15px;
+  padding-bottom: 30px;
+}
+
+.descripcion{
+  font-size: 1.1rem;
+  text-align: justify;
+}
+
+.menu{
+  max-width: 12px;
+  font-size: 1.1em;
+  font-family: lato, sans-serif;
+  font-weight: 600;
+  line-height: 1.1;
+  margin: 40px 0;
+}
+
+.m{
+  margin: 10px 10px 50px;
+  align-items: center;
+  justify-content: center;
+}
